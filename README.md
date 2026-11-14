@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jasraj Baweja 👋</h1>
+<h1 align="center">Hi, I'm Jasraj Baweja </h1>
 
 <p align="center">
   Computer Science student at <b>Stevens Institute of Technology</b> (Finance minor)<br/>
@@ -17,11 +17,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm currently developing my machine learning skills through **Break Through Tech's AI Program** and have professional experience in **data science at Ambee** and **business process analysis at Lockheed Martin**.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,r,git,github,jupyter,pandas,numpy,sklearn" alt="Skills"/>
