@@ -47,6 +47,10 @@ Developed a Java program using hash tables and prime-based hashing to identify a
 - Data Science & Predictive Modeling
 - Data Analytics & Visualization
 - Software Engineering
+- 
+### 📊 My GitHub Stats & Top Languages
+
+![Top Languages](https://vercel.app)
 
 ## Connect With Me
 
