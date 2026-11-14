@@ -1,4 +1,4 @@
-# Hi, I'm Jasraj Baweja! 👋
+# Hi, I'm Jasraj Baweja! 
 
 I'm a Computer Science student at Stevens Institute of Technology with a minor in Finance, interested in building data-driven solutions through machine learning, artificial intelligence, and data science.
 
