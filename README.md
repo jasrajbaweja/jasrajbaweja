@@ -23,10 +23,6 @@ I'm currently developing my machine learning skills through **Break Through Tech
 
 ## Technical Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,r,git,github,jupyter,pandas,numpy,sklearn" alt="Skills"/>
-</p>
-
 - **Languages:** Python, Java, C++, C, JavaScript, R
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib
 - **Tools:** Git, GitHub, Jupyter Notebook, SAP Business Intelligence
