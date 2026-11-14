@@ -97,14 +97,6 @@ Developed a Java program using hash tables and prime-based hashing to identify a
 - **Former Data Science Intern at Ambee**
   - Worked with weather, pollen, and public health datasets to build data-processing and validation pipelines.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/jasrajbaweja?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/jasrajbaweja?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/languages/count/jasrajbaweja/influenza-like-ilnesses-ILI-EDA?style=for-the-badge&label=Languages" alt="Languages"/>
-</p>
-
 ## Areas of Interest
 
 - Artificial Intelligence & Machine Learning
