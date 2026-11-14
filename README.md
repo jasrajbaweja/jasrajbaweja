@@ -100,8 +100,9 @@ Developed a Java program using hash tables and prime-based hashing to identify a
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jasrajbaweja&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasrajbaweja&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://img.shields.io/github/followers/jasrajbaweja?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/jasrajbaweja?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/languages/count/jasrajbaweja/influenza-like-ilnesses-ILI-EDA?style=for-the-badge&label=Languages" alt="Languages"/>
 </p>
 
 ## Areas of Interest
