@@ -32,18 +32,7 @@ I'm currently developing my machine learning skills through **Break Through Tech
 - **Tools:** Git, GitHub, Jupyter Notebook, SAP Business Intelligence
 - **Core Concepts:** Machine Learning, Data Structures, Algorithms, Object-Oriented Programming, Data Analysis, Data Validation, Data Governance
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jasrajbaweja&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasrajbaweja&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jasrajbaweja&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Healthcare Heart Disease Prediction
 Machine learning project using CDC health survey data to predict heart disease risk. Exploring supervised learning models, feature engineering, and model evaluation.
@@ -60,7 +49,7 @@ Developed a Java program using hash tables and prime-based hashing to identify a
 
 [View Project](https://github.com/jasrajbaweja/Anagrams)
 
-## 💼 Experience
+## Experience
 
 - **Business Process Analyst at Lockheed Martin** (May 2026 – Present)
   - Manage 15+ SAP Business Intelligence tickets by analyzing reports, defining system requirements, and communicating technical specifications to developers.
@@ -73,14 +62,14 @@ Developed a Java program using hash tables and prime-based hashing to identify a
 - **Former Data Science Intern at Ambee**
   - Worked with weather, pollen, and public health datasets to build data-processing and validation pipelines.
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 - Artificial Intelligence & Machine Learning
 - Data Science & Predictive Modeling
 - Data Analytics & Visualization
 - Software Engineering
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/jasraj-baweja/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
