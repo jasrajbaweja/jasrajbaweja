@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Jasraj Baweja </h1>
+<h1 align="center">Hi, I'm Jasraj Baweja</h1>
 
 <p align="center">
   Computer Science student at <b>Stevens Institute of Technology</b> (Finance minor)<br/>
-  Building data-driven solutions with machine learning, AI, and data science.
+  <b>Break Through Tech AI/ML Fellow</b> building data-driven solutions with machine learning, AI, and data science.
 </p>
 
 <p align="center">
@@ -19,29 +19,68 @@
 
 ## About Me
 
-I'm currently developing my machine learning skills through **Break Through Tech's AI Program** and have professional experience in **data science at Ambee** and **business process analysis at Lockheed Martin**.
+I'm a Computer Science student interested in machine learning, AI, and data science. I'm currently building my ML skills as a **Break Through Tech AI/ML Fellow** and have professional experience in **data science at Ambee** and **business process analysis at Lockheed Martin**.
 
-## Technical Skills
+## Break Through Tech AI/ML Fellow (April 2026 – Present)
 
-- **Languages:** Python, Java, C++, C, JavaScript, R
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib
-- **Tools:** Git, GitHub, Jupyter Notebook, SAP Business Intelligence
-- **Core Concepts:** Machine Learning, Data Structures, Algorithms, Object-Oriented Programming, Data Analysis, Data Validation, Data Governance
+Break Through Tech is a program that helps women and nonbinary students build careers in tech through hands-on AI and machine learning training.
 
-## Featured Projects
+**Technical skills built**
+- Python for data analysis and machine learning
+- Data cleaning, exploration, and visualization
+- Feature engineering
+- Supervised learning and model evaluation
+- Working with real-world datasets in team-based projects
+
+**Professional skills built**
+- Collaborating with a team on a technical project from start to finish
+- Communicating technical results clearly to different audiences
+- Taking initiative and working through open-ended problems
+- Using Git and GitHub for version control and collaboration
+
+## Featured Project
 
 ### Healthcare Heart Disease Prediction
+*Break Through Tech AI Studio project*
+
 Machine learning project using CDC health survey data to predict heart disease risk. Exploring supervised learning models, feature engineering, and model evaluation.
+
+- **Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook
+- **My contributions:** [add what you personally worked on, e.g. data cleaning, feature engineering, modeling, evaluation]
+- **Key results:** [add your best metric or finding, e.g. model performance and top predictive features]
 
 [View Project](https://github.com/Break-Through-Tech/Healthcare-2A-predicting-heart-disease-risk-from-health-survey-indicators)
 
+## Technical Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,r,git,github,jupyter,pandas,numpy,sklearn" alt="Skills"/>
+</p>
+
+- **Languages:** Python, Java, C++, C, JavaScript, R
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Tools:** Git, GitHub, Jupyter Notebook, SAP Business Intelligence
+- **Machine Learning:** Supervised Learning, Feature Engineering, Model Evaluation *(Break Through Tech)*
+- **Data Skills:** Exploratory Data Analysis, Data Cleaning, Data Validation, Data Governance, Data Visualization
+- **Core Concepts:** Data Structures, Algorithms, Object-Oriented Programming
+
+## Licenses & Certifications
+
+- **Machine Learning Foundations Certificate**, Break Through Tech *([add link or date])*
+
+## More Projects
+
 ### Influenza-Like Illness Data Analysis
 Analyzed over 27,000 records across 15 cities using weather, pollen, and influenza-like illness data. Developed data-cleaning pipelines and visualizations to explore seasonal trends and relationships.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 [View Project](https://github.com/jasrajbaweja/influenza-like-ilnesses-ILI-EDA)
 
 ### Anagrams
 Developed a Java program using hash tables and prime-based hashing to identify and group anagrams efficiently.
+
+**Tech:** Java, Hash Tables
 
 [View Project](https://github.com/jasrajbaweja/Anagrams)
 
@@ -57,6 +96,13 @@ Developed a Java program using hash tables and prime-based hashing to identify a
 
 - **Former Data Science Intern at Ambee**
   - Worked with weather, pollen, and public health datasets to build data-processing and validation pipelines.
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jasrajbaweja&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasrajbaweja&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
 
 ## Areas of Interest
 
